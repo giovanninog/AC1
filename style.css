@@ -1,0 +1,61 @@
+body {
+    font-family: lato;
+    color: rgb(5, 5, 5);
+    height: 100vh;
+    background: linear-gradient(135deg, #adc6da, #05d864);
+    margin-left: 50px;
+    margin-right: 50px;
+    text-align: center;
+}
+
+
+.header_paciente {
+    color: black;
+}
+
+.header_index {
+    text-align: left;
+}
+.nav_index {
+    background-color: aliceblue;
+    color: white;
+    height: 50px;
+    text-align: center;
+}
+
+.nav_paciente {
+    background-color: aliceblue;
+    border-bottom: #adc6da;
+    height: 50px;
+    color: white;
+    text-align: center;
+    
+}
+
+
+.field_paciente {
+    text-align: center;
+    border-color: black;
+    border-radius: 20px;
+}
+
+.fieldset_index {
+    border-color: black;
+    border-radius: 20px;
+}
+
+.footer_index {
+    text-align: center;
+    background-color: aliceblue;
+    color: rgb(0, 0, 0);
+    height: 50px;
+    padding-top: 5px;
+}
+
+.footer_paciente {
+    text-align: center;
+    background-color: aliceblue;
+    color: rgb(0, 0, 0);
+    height: 50px;
+    padding-top: 5px;
+}
